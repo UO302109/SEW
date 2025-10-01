@@ -2,3 +2,42 @@
 /* Datos Personales : Fernando Remis Figuero UO302109 */
 
 /* Estilos generales del proyecto MotoGP-Desktop */
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 16px; 
+    line-height: 1.5; 
+    color: #242424; 
+    background-color: #fff; 
+	
+
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+
+header {
+	color: #bfd7ed;
+    background-color: #003b73; 
+    padding: 1em;
+}
+
+header > h1 a {
+    color: #bfd7ed;
+}
+
+
+h1{
+    color: #bfd7ed;
+}
+
+nav{
+    color: #bfd7ed;
+}
+
+nav a{
+    color: #bfd7ed;
+}
+
