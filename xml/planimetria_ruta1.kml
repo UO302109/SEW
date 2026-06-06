@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Museo de la Evolución Humana</name>
+      <description>Punto de partida</description>
+      <Point>
+        <coordinates>-3.697144,42.339372,858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Museo de la Evolución Humana</name>
+      <description>Museo dedicado a la evolución humana y a los hallazgos paleontológicos de los yacimientos de la Sierra de Atapuerca, Patrimonio de la Humanidad. Diseñado por Juan Navarro Baldeweg, es una de las visitas imprescindibles de Burgos.</description>
+      <Point>
+        <coordinates>-3.697144,42.339372,858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paseo del Espolón</name>
+      <description>Paseo arbolado a orillas del río Arlanzón, corazón de la vida social burgalesa desde el siglo XVIII. Sus plátanos centenarios y el famoso quiosco de música lo convierten en uno de los lugares más emblemáticos de la ciudad.</description>
+      <Point>
+        <coordinates>-3.701979,42.340151,868</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arco de Santa María</name>
+      <description>Antigua puerta de la muralla medieval y entrada monumental al casco histórico de Burgos. Reconstruida en el siglo XVI a modo de retablo en honor al emperador Carlos V, alberga en su interior una sala de exposiciones.</description>
+      <Point>
+        <coordinates>-3.703819,42.339765,864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza del Rey San Fernando</name>
+      <description>Plaza monumental en el corazón del casco histórico, situada frente a la fachada principal de la Catedral. Recibe su nombre en honor a Fernando III el Santo, rey castellano que ordenó iniciar la construcción de la Catedral en 1221.</description>
+      <Point>
+        <coordinates>-3.703939,42.340349,870</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iglesia de San Nicolás de Bari</name>
+      <description>Templo gótico del siglo XV famoso por su impresionante retablo mayor de piedra policromada, una de las obras maestras del gótico hispano. Situada en la calle Fernán González, junto a la Catedral.</description>
+      <Point>
+        <coordinates>-3.705511,42.340544,882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Catedral de Santa María</name>
+      <description>Catedral gótica del siglo XIII, declarada Patrimonio de la Humanidad por la UNESCO en 1984. Alberga el sepulcro del Cid Campeador y de Doña Jimena. Sus dos torres gemelas con agujas caladas son uno de los iconos arquitectónicos de España.</description>
+      <Point>
+        <coordinates>-3.704976,42.340374,874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruta: Casco histórico de Burgos</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellation>1</tessellation>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-3.697144,42.339372,858
+-3.697144,42.339372,858
+-3.697374,42.339991,859
+-3.699039,42.339727,856
+-3.699584,42.340699,862
+-3.699728,42.340439,862
+-3.701919,42.339907,862
+-3.701979,42.340151,868
+-3.703819,42.339765,864
+-3.704216,42.340002,874
+-3.703939,42.340349,870
+-3.704875,42.339936,863
+-3.705562,42.339749,871
+-3.705866,42.339794,872
+-3.705639,42.339971,871
+-3.705230,42.340095,882
+-3.705367,42.340204,882
+-3.705511,42.340544,882
+-3.705414,42.340573,882
+-3.705321,42.340225,882
+-3.704976,42.340374,874</coordinates>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>5</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

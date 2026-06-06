@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Pueblo de Hortigüela</name>
+      <description>Punto de partida</description>
+      <Point>
+        <coordinates>-3.426503,42.068343,941</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hortigüela</name>
+      <description>Pequeña localidad burgalesa situada en el valle del río Arlanza, punto de partida tradicional para visitar el Monasterio de San Pedro de Arlanza y los parajes naturales del entorno.</description>
+      <Point>
+        <coordinates>-3.426503,42.068343,941</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monasterio de San Pedro de Arlanza</name>
+      <description>Conjunto monástico medieval considerado la cuna del condado de Castilla, fundado en el siglo IX. Lugar donde residió el conde Fernán González y donde estuvo enterrado. Sus ruinas, en un entorno natural espectacular junto al río Arlanza, están declaradas Bien de Interés Cultural.</description>
+      <Point>
+        <coordinates>-3.467101,42.048629,934</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermita de San Pelayo</name>
+      <description>Pequeña ermita rural románica del siglo XI a orillas del río Arlanza, dedicada al niño mártir San Pelayo. Uno de los ejemplos más antiguos de arquitectura románica rural conservada en la zona.</description>
+      <Point>
+        <coordinates>-3.467949,42.046232,968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermita de San Olav</name>
+      <description>Única ermita dedicada a un santo noruego en España. Inaugurada en 2011 por la familia real noruega, conmemora a la princesa Cristina de Noruega, casada con el infante Felipe de Castilla en 1258 y enterrada en la Colegiata de Covarrubias.</description>
+      <Point>
+        <coordinates>-3.498220,42.059676,928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Covarrubias</name>
+      <description>Villa medieval declarada Conjunto Histórico-Artístico Nacional, cuna del condado de Castilla y residencia de la infanta Cristina de Noruega. Conserva calles porticadas, casas de entramado de madera y la Colegiata de San Cosme y San Damián.</description>
+      <Point>
+        <coordinates>-3.519185,42.060109,903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruta: Valle del Arlanza: monasterio y ermitas medievales</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellation>1</tessellation>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-3.426503,42.068343,941
+-3.426503,42.068343,941
+-3.424017,42.068095,931
+-3.429149,42.060308,923
+-3.429635,42.057492,927
+-3.432448,42.055611,936
+-3.431944,42.054546,936
+-3.442755,42.049114,928
+-3.444055,42.046318,923
+-3.446462,42.045971,939
+-3.455284,42.047918,936
+-3.460137,42.047270,921
+-3.467101,42.048629,934
+-3.468062,42.047881,956
+-3.469618,42.048145,942
+-3.470167,42.047949,932
+-3.469939,42.046661,942
+-3.467949,42.046232,968
+-3.469861,42.045811,924
+-3.469582,42.043738,914
+-3.472397,42.042027,910
+-3.473538,42.042376,937
+-3.474515,42.043780,930
+-3.476438,42.042846,906
+-3.478416,42.038145,903
+-3.480325,42.038249,926
+-3.481018,42.036789,921
+-3.482731,42.036887,914
+-3.484028,42.038033,911
+-3.489928,42.041177,926
+-3.491402,42.041287,908
+-3.491758,42.041988,924
+-3.492018,42.042157,924
+-3.493387,42.041565,916
+-3.494899,42.042025,923
+-3.493959,42.043465,923
+-3.493681,42.044647,915
+-3.491736,42.047238,891
+-3.491979,42.049777,902
+-3.494826,42.051598,910
+-3.506798,42.053804,898
+-3.505823,42.055593,915
+-3.500994,42.057966,931
+-3.499070,42.058244,922
+-3.498220,42.059676,928
+-3.499770,42.058355,947
+-3.501794,42.057789,952
+-3.503338,42.057017,957
+-3.504162,42.056584,920
+-3.506051,42.055745,932
+-3.506988,42.053851,898
+-3.508313,42.054040,889
+-3.511342,42.056086,898
+-3.513277,42.058160,895
+-3.514261,42.059264,899
+-3.519185,42.060109,903</coordinates>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>5</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

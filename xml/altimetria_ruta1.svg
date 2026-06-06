@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="2.0" viewBox="0 0 1000 600">
+  <text x="300.0" y="30" style="font-weight: bold; fill: black;" font-family="Arial" font-size="20">Altimetría ruta 'Casco histórico de Burgos'</text>
+  <line x1="60" y1="50" x2="60" y2="320" stroke="grey" stroke-width="2" />
+  <line x1="60" y1="320" x2="980" y2="320" stroke="grey" stroke-width="2" />
+  <text x="10" y="55" style="fill: grey;" font-family="Arial" font-size="12">882 m</text>
+  <text x="10" y="190.0" style="fill: grey;" font-family="Arial" font-size="12">869 m</text>
+  <text x="10" y="325" style="fill: grey;" font-family="Arial" font-size="12">856 m</text>
+  <line x1="55" y1="185.0" x2="60" y2="185.0" stroke="grey" stroke-width="1" />
+  <text x="50" y="335" style="fill: grey;" font-family="Arial" font-size="12">0 m</text>
+  <text x="500.0" y="335" style="fill: grey;" font-family="Arial" font-size="12">598 m</text>
+  <text x="940.0" y="335" style="fill: grey;" font-family="Arial" font-size="12">1196 m</text>
+  <line x1="520.0" y1="320" x2="520.0" y2="325" stroke="grey" stroke-width="1" />
+  <polygon points="60.0,299.2307692307692 114.61538461538461,288.84615384615387 222.3076923076923,320.0 312.30769230769226,257.6923076923077 336.1538461538462,257.6923076923077 481.5384615384615,257.6923076923077 503.0769230769231,195.38461538461536 623.8461538461538,236.9230769230769 656.1538461538461,133.0769230769231 690.7692307692307,174.6153846153846 760.0,247.30769230769232 806.1538461538462,164.23076923076925 825.3846153846154,153.84615384615384 846.1538461538462,164.23076923076925 873.8461538461538,50.0 886.9230769230769,50.0 917.6923076923077,50.0 924.6153846153846,50.0 954.6153846153845,50.0 980.0,133.0769230769231 980.0,320 60.0,320" stroke="red" fill="none" stroke-width="2" />
+  <text x="65.0" y="355" style="writing-mode: tb; glyph-orientation-vertical: 0;" font-family="Arial" font-size="13">Museo de la Evolución Humana</text>
+  <text x="508.0769230769231" y="355" style="writing-mode: tb; glyph-orientation-vertical: 0;" font-family="Arial" font-size="13">Paseo del Espolón</text>
+  <text x="628.8461538461538" y="355" style="writing-mode: tb; glyph-orientation-vertical: 0;" font-family="Arial" font-size="13">Arco de Santa María</text>
+  <text x="695.7692307692307" y="355" style="writing-mode: tb; glyph-orientation-vertical: 0;" font-family="Arial" font-size="13">Plaza del Rey San Fernando</text>
+  <text x="922.6923076923077" y="355" style="writing-mode: tb; glyph-orientation-vertical: 0;" font-family="Arial" font-size="13">Iglesia de San Nicolás de Bari</text>
+  <text x="985.0" y="355" style="writing-mode: tb; glyph-orientation-vertical: 0;" font-family="Arial" font-size="13">Catedral de Santa María</text>
+</svg>

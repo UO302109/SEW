@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Pueblo de Atapuerca</name>
+      <description>Punto de partida</description>
+      <Point>
+        <coordinates>-3.507221,42.376606,954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pueblo de Atapuerca</name>
+      <description>Pequeña localidad burgalesa famosa por dar nombre a los yacimientos arqueológicos próximos, Patrimonio de la Humanidad. Por su iglesia parroquial de San Martín de Tours pasa el Camino de Santiago Francés.</description>
+      <Point>
+        <coordinates>-3.507221,42.376606,954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yacimientos de Atapuerca</name>
+      <description>Conjunto de yacimientos paleontológicos y arqueológicos declarado Patrimonio de la Humanidad por la UNESCO en 2000. Aquí se han encontrado los restos humanos más antiguos de Europa, incluyendo los del Homo antecessor.</description>
+      <Point>
+        <coordinates>-3.519562,42.348795,993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pueblo de Agés</name>
+      <description>Localidad medieval del Camino de Santiago, conocida por su iglesia parroquial de Santa Eulalia y por ser punto tradicional de descanso de peregrinos jacobeos.</description>
+      <Point>
+        <coordinates>-3.479322,42.369672,968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monasterio de San Juan de Ortega</name>
+      <description>Conjunto monástico medieval fundado en el siglo XII por San Juan de Ortega, discípulo de Santo Domingo de la Calzada. Famoso por el milagro de la luz equinoccial sobre el capitel de la Anunciación. Hito clave del Camino de Santiago.</description>
+      <Point>
+        <coordinates>-3.436611,42.375683,1007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olmos de Atapuerca</name>
+      <description>Pequeña localidad situada al norte de la Sierra de Atapuerca, con iglesia parroquial del siglo XVI. Punto final de la ruta turística que recorre los principales hitos arqueológicos y jacobeos de la comarca.</description>
+      <Point>
+        <coordinates>-3.532384,42.391112,946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruta: Sierra de Atapuerca y Camino de Santiago</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellation>1</tessellation>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-3.507221,42.376606,954
+-3.507221,42.376606,954
+-3.509751,42.377618,956
+-3.512316,42.377024,954
+-3.516680,42.378050,972
+-3.520217,42.375101,1019
+-3.520556,42.371673,1035
+-3.521124,42.368410,1077
+-3.515581,42.366108,1074
+-3.514396,42.363070,1065
+-3.516595,42.359756,1009
+-3.522267,42.357597,1005
+-3.523171,42.352834,983
+-3.522028,42.352377,984
+-3.519562,42.348795,993
+-3.516625,42.346991,1021
+-3.511972,42.351757,1078
+-3.510242,42.355554,1051
+-3.509764,42.357881,1032
+-3.507667,42.359300,1036
+-3.507669,42.359323,1036
+-3.509567,42.364387,1032
+-3.503654,42.368559,969
+-3.500333,42.372006,959
+-3.499635,42.373502,952
+-3.484344,42.371738,948
+-3.479322,42.369672,968
+-3.474615,42.366486,959
+-3.468043,42.364593,967
+-3.462797,42.357428,977
+-3.459430,42.357674,986
+-3.452707,42.361352,982
+-3.449714,42.366446,1010
+-3.445950,42.367802,1027
+-3.442743,42.370677,1029
+-3.442778,42.370676,1029
+-3.441407,42.372209,1025
+-3.436542,42.374780,1009
+-3.436611,42.375683,1007
+-3.444004,42.377492,1001
+-3.446751,42.381201,992
+-3.446394,42.383537,992
+-3.448622,42.388392,977
+-3.455292,42.394818,966
+-3.463313,42.395563,960
+-3.472704,42.399388,948
+-3.486609,42.396522,938
+-3.488162,42.397532,947
+-3.506885,42.395977,932
+-3.517070,42.398821,919
+-3.532066,42.399464,913
+-3.532384,42.391112,946</coordinates>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>5</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

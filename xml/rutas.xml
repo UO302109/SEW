@@ -1,0 +1,1209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rutas xmlns="http://www.uniovi.es" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.uniovi.es rutas.xsd">
+
+    <ruta>
+        <nombre>Casco histórico de Burgos</nombre>
+        <tipo>Arquitectura y monumentos</tipo>
+        <medioTransporte>A pie</medioTransporte>
+        <fechaInicio>2026-04-12</fechaInicio>
+        <horaInicio>10:00:00</horaInicio>
+        <duracion>4 horas</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Recorrido a pie por el conjunto monumental de la ciudad de Burgos, declarada Patrimonio de la Humanidad. Partiendo del Museo de la Evolución Humana, la ruta sigue el Paseo del Espolón, cruza el Arco de Santa María y termina en la Catedral, recorriendo más de mil años de historia castellana.</descripcion>
+        <personasAdecuadas>Apta para todos los públicos, incluidas familias con niños</personasAdecuadas>
+        <lugarInicio>Museo de la Evolución Humana</lugarInicio>
+        <direccionInicio>Paseo Sierra de Atapuerca, s/n - 09002 Burgos</direccionInicio>
+        <coordenadasInicio>
+            <long>-3.697144</long>
+            <lat>42.339372</lat>
+            <altitud unidad="metros">858</altitud>
+        </coordenadasInicio>
+        <bibliografia>
+            <referencia alt="Turismo de Burgos">https://www.turismoburgos.org/</referencia>
+            <referencia alt="Catedral de Burgos en Wikipedia">https://es.wikipedia.org/wiki/Catedral_de_Burgos</referencia>
+            <referencia alt="Museo de la Evolución Humana">https://www.museoevolucionhumana.com/</referencia>
+        </bibliografia>
+        <recomendacion>9</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Museo de la Evolución Humana</nombre>
+                <descripcion>Museo dedicado a la evolución humana y a los hallazgos paleontológicos de los yacimientos de la Sierra de Atapuerca, Patrimonio de la Humanidad. Diseñado por Juan Navarro Baldeweg, es una de las visitas imprescindibles de Burgos.</descripcion>
+                <coordenadas>
+                    <long>-3.697144</long>
+                    <lat>42.339372</lat>
+                    <altitud unidad="metros">858</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/meh_exterior.jpg" alt="Edificio del Museo de la Evolución Humana"/>
+                    <imagen urlf="../multimedia/meh_interior.jpg" alt="Sala de exposiciones del museo"/>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video urlv="../multimedia/meh_recorrido.mp4" alt="Recorrido por el museo"/>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.697374</long>
+                    <lat>42.339991</lat>
+                    <altitud unidad="metros">859</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">71</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.699039</long>
+                    <lat>42.339727</lat>
+                    <altitud unidad="metros">856</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">140</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.699584</long>
+                    <lat>42.340699</lat>
+                    <altitud unidad="metros">862</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">117</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.699728</long>
+                    <lat>42.340439</lat>
+                    <altitud unidad="metros">862</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">31</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.701919</long>
+                    <lat>42.339907</lat>
+                    <altitud unidad="metros">862</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">189</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Paseo del Espolón</nombre>
+                <descripcion>Paseo arbolado a orillas del río Arlanzón, corazón de la vida social burgalesa desde el siglo XVIII. Sus plátanos centenarios y el famoso quiosco de música lo convierten en uno de los lugares más emblemáticos de la ciudad.</descripcion>
+                <coordenadas>
+                    <long>-3.701979</long>
+                    <lat>42.340151</lat>
+                    <altitud unidad="metros">868</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">28</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/espolon.jpg" alt="Paseo del Espolón con sus plátanos centenarios"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <nombre>Arco de Santa María</nombre>
+                <descripcion>Antigua puerta de la muralla medieval y entrada monumental al casco histórico de Burgos. Reconstruida en el siglo XVI a modo de retablo en honor al emperador Carlos V, alberga en su interior una sala de exposiciones.</descripcion>
+                <coordenadas>
+                    <long>-3.703819</long>
+                    <lat>42.339765</lat>
+                    <altitud unidad="metros">864</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">157</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/arco_santamaria.jpg" alt="Arco de Santa María iluminado"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.704216</long>
+                    <lat>42.340002</lat>
+                    <altitud unidad="metros">874</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">42</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Plaza del Rey San Fernando</nombre>
+                <descripcion>Plaza monumental en el corazón del casco histórico, situada frente a la fachada principal de la Catedral. Recibe su nombre en honor a Fernando III el Santo, rey castellano que ordenó iniciar la construcción de la Catedral en 1221.</descripcion>
+                <coordenadas>
+                    <long>-3.703939</long>
+                    <lat>42.340349</lat>
+                    <altitud unidad="metros">870</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">45</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/plaza_rey_fernando.jpg" alt="Plaza del Rey San Fernando con la Catedral al fondo"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.704875</long>
+                    <lat>42.339936</lat>
+                    <altitud unidad="metros">863</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">90</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705562</long>
+                    <lat>42.339749</lat>
+                    <altitud unidad="metros">871</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">60</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705866</long>
+                    <lat>42.339794</lat>
+                    <altitud unidad="metros">872</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">25</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705639</long>
+                    <lat>42.339971</lat>
+                    <altitud unidad="metros">871</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">27</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705230</long>
+                    <lat>42.340095</lat>
+                    <altitud unidad="metros">882</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">36</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705367</long>
+                    <lat>42.340204</lat>
+                    <altitud unidad="metros">882</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">17</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Iglesia de San Nicolás de Bari</nombre>
+                <descripcion>Templo gótico del siglo XV famoso por su impresionante retablo mayor de piedra policromada, una de las obras maestras del gótico hispano. Situada en la calle Fernán González, junto a la Catedral.</descripcion>
+                <coordenadas>
+                    <long>-3.705511</long>
+                    <lat>42.340544</lat>
+                    <altitud unidad="metros">882</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">40</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/sannicolas.jpg" alt="Retablo de la iglesia de San Nicolás"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705414</long>
+                    <lat>42.340573</lat>
+                    <altitud unidad="metros">882</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">9</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.705321</long>
+                    <lat>42.340225</lat>
+                    <altitud unidad="metros">882</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">39</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Catedral de Santa María</nombre>
+                <descripcion>Catedral gótica del siglo XIII, declarada Patrimonio de la Humanidad por la UNESCO en 1984. Alberga el sepulcro del Cid Campeador y de Doña Jimena. Sus dos torres gemelas con agujas caladas son uno de los iconos arquitectónicos de España.</descripcion>
+                <coordenadas>
+                    <long>-3.704976</long>
+                    <lat>42.340374</lat>
+                    <altitud unidad="metros">874</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">33</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/catedral_fachada.jpg" alt="Fachada principal de la Catedral de Burgos"/>
+                    <imagen urlf="../multimedia/catedral_interior.jpg" alt="Interior de la nave central"/>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video urlv="../multimedia/catedral_panoramica.mp4" alt="Panorámica de la catedral"/>
+                </galeriaVideos>
+            </hito>
+        </hitos>
+        <planimetria>xml/planimetria_ruta1.kml</planimetria>
+
+        <altimetria>xml/altimetria_ruta1.svg</altimetria>
+
+    </ruta>
+
+    <ruta>
+        <nombre>Sierra de Atapuerca y Camino de Santiago</nombre>
+        <tipo>Mixta arqueología y Camino de Santiago</tipo>
+        <medioTransporte>Bicicleta</medioTransporte>
+        <fechaInicio>2026-05-23</fechaInicio>
+        <horaInicio>09:30:00</horaInicio>
+        <duracion>1 día</duracion>
+        <agencia>NaturaTur</agencia>
+        <descripcion>Ruta cicloturista por la Sierra de Atapuerca que combina los yacimientos paleontológicos Patrimonio de la Humanidad con los pueblos jacobeos del Camino de Santiago Francés. Une Atapuerca, los yacimientos, Agés, el monasterio de San Juan de Ortega y Olmos de Atapuerca, en un recorrido de unos 26 km por carreteras secundarias y pistas asfaltadas.</descripcion>
+        <personasAdecuadas>Personas en buena forma física con experiencia en bicicleta de montaña</personasAdecuadas>
+        <lugarInicio>Pueblo de Atapuerca</lugarInicio>
+        <direccionInicio>Plaza del pueblo de Atapuerca, Burgos</direccionInicio>
+        <coordenadasInicio>
+            <long>-3.507221</long>
+            <lat>42.376606</lat>
+            <altitud unidad="metros">954</altitud>
+        </coordenadasInicio>
+        <bibliografia>
+            <referencia alt="Yacimientos de Atapuerca">https://www.atapuerca.org/</referencia>
+            <referencia alt="Camino de Santiago oficial">https://oficinadelperegrino.com/</referencia>
+            <referencia alt="Monasterio San Juan de Ortega">https://es.wikipedia.org/wiki/Monasterio_de_San_Juan_de_Ortega</referencia>
+            <referencia alt="Sierra de Atapuerca en Wikipedia">https://es.wikipedia.org/wiki/Sierra_de_Atapuerca</referencia>
+        </bibliografia>
+        <recomendacion>8</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Pueblo de Atapuerca</nombre>
+                <descripcion>Pequeña localidad burgalesa famosa por dar nombre a los yacimientos arqueológicos próximos, Patrimonio de la Humanidad. Por su iglesia parroquial de San Martín de Tours pasa el Camino de Santiago Francés.</descripcion>
+                <coordenadas>
+                    <long>-3.507221</long>
+                    <lat>42.376606</lat>
+                    <altitud unidad="metros">954</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/atapuerca_pueblo.jpg" alt="Pueblo de Atapuerca con la sierra al fondo"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.509751</long>
+                    <lat>42.377618</lat>
+                    <altitud unidad="metros">956</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">236</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.512316</long>
+                    <lat>42.377024</lat>
+                    <altitud unidad="metros">954</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">221</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.516680</long>
+                    <lat>42.378050</lat>
+                    <altitud unidad="metros">972</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">376</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.520217</long>
+                    <lat>42.375101</lat>
+                    <altitud unidad="metros">1019</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">438</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.520556</long>
+                    <lat>42.371673</lat>
+                    <altitud unidad="metros">1035</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">382</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.521124</long>
+                    <lat>42.368410</lat>
+                    <altitud unidad="metros">1077</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">366</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.515581</long>
+                    <lat>42.366108</lat>
+                    <altitud unidad="metros">1074</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">522</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.514396</long>
+                    <lat>42.363070</lat>
+                    <altitud unidad="metros">1065</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">352</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.516595</long>
+                    <lat>42.359756</lat>
+                    <altitud unidad="metros">1009</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">410</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.522267</long>
+                    <lat>42.357597</lat>
+                    <altitud unidad="metros">1005</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">524</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.523171</long>
+                    <lat>42.352834</lat>
+                    <altitud unidad="metros">983</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">535</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.522028</long>
+                    <lat>42.352377</lat>
+                    <altitud unidad="metros">984</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">107</distanciaAnterior>
+                </hito>
+            <hito>
+                <nombre>Yacimientos de Atapuerca</nombre>
+                <descripcion>Conjunto de yacimientos paleontológicos y arqueológicos declarado Patrimonio de la Humanidad por la UNESCO en 2000. Aquí se han encontrado los restos humanos más antiguos de Europa, incluyendo los del Homo antecessor.</descripcion>
+                <coordenadas>
+                    <long>-3.519562</long>
+                    <lat>42.348795</lat>
+                    <altitud unidad="metros">993</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">447</distanciaAnterior>
+            <galeriaFotos>
+                    <imagen urlf="../multimedia/yacimientos_atapuerca.jpg" alt="Trinchera de los yacimientos de Atapuerca"/>
+                    <imagen urlf="../multimedia/sierra_atapuerca.jpg" alt="Vista de la Sierra de Atapuerca"/>
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video urlv="../multimedia/yacimientos.mp4" alt="Recorrido por los yacimientos"/>
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.516625</long>
+                    <lat>42.346991</lat>
+                    <altitud unidad="metros">1021</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">314</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.511972</long>
+                    <lat>42.351757</lat>
+                    <altitud unidad="metros">1078</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">654</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.510242</long>
+                    <lat>42.355554</lat>
+                    <altitud unidad="metros">1051</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">446</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.509764</long>
+                    <lat>42.357881</lat>
+                    <altitud unidad="metros">1032</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">262</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.507667</long>
+                    <lat>42.359300</lat>
+                    <altitud unidad="metros">1036</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">234</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.507669</long>
+                    <lat>42.359323</lat>
+                    <altitud unidad="metros">1036</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">3</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.509567</long>
+                    <lat>42.364387</lat>
+                    <altitud unidad="metros">1032</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">584</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.503654</long>
+                    <lat>42.368559</lat>
+                    <altitud unidad="metros">969</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">672</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.500333</long>
+                    <lat>42.372006</lat>
+                    <altitud unidad="metros">959</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">471</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.499635</long>
+                    <lat>42.373502</lat>
+                    <altitud unidad="metros">952</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">176</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.484344</long>
+                    <lat>42.371738</lat>
+                    <altitud unidad="metros">948</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">1271</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Pueblo de Agés</nombre>
+                <descripcion>Localidad medieval del Camino de Santiago, conocida por su iglesia parroquial de Santa Eulalia y por ser punto tradicional de descanso de peregrinos jacobeos.</descripcion>
+                <coordenadas>
+                    <long>-3.479322</long>
+                    <lat>42.369672</lat>
+                    <altitud unidad="metros">968</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">472</distanciaAnterior>
+            <galeriaFotos>
+                    <imagen urlf="../multimedia/ages.jpg" alt="Calle principal de Agés"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.474615</long>
+                    <lat>42.366486</lat>
+                    <altitud unidad="metros">959</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">524</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.468043</long>
+                    <lat>42.364593</lat>
+                    <altitud unidad="metros">967</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">580</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.462797</long>
+                    <lat>42.357428</lat>
+                    <altitud unidad="metros">977</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">906</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.459430</long>
+                    <lat>42.357674</lat>
+                    <altitud unidad="metros">986</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">278</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.452707</long>
+                    <lat>42.361352</lat>
+                    <altitud unidad="metros">982</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">687</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.449714</long>
+                    <lat>42.366446</lat>
+                    <altitud unidad="metros">1010</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">617</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.445950</long>
+                    <lat>42.367802</lat>
+                    <altitud unidad="metros">1027</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">344</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.442743</long>
+                    <lat>42.370677</lat>
+                    <altitud unidad="metros">1029</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">414</distanciaAnterior>
+                </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.442778</long>
+                    <lat>42.370676</lat>
+                    <altitud unidad="metros">1029</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">3</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.441407</long>
+                    <lat>42.372209</lat>
+                    <altitud unidad="metros">1025</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">204</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.436542</long>
+                    <lat>42.374780</lat>
+                    <altitud unidad="metros">1009</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">491</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Monasterio de San Juan de Ortega</nombre>
+                <descripcion>Conjunto monástico medieval fundado en el siglo XII por San Juan de Ortega, discípulo de Santo Domingo de la Calzada. Famoso por el milagro de la luz equinoccial sobre el capitel de la Anunciación. Hito clave del Camino de Santiago.</descripcion>
+                <coordenadas>
+                    <long>-3.436611</long>
+                    <lat>42.375683</lat>
+                    <altitud unidad="metros">1007</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">101</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/san_juan_ortega_1.jpg" alt="Iglesia del Monasterio de San Juan de Ortega"/>
+                    <imagen urlf="../multimedia/san_juan_ortega_2.jpg" alt="Capitel de la Anunciación"/>
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.444004</long>
+                    <lat>42.377492</lat>
+                    <altitud unidad="metros">1001</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">640</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.446751</long>
+                    <lat>42.381201</lat>
+                    <altitud unidad="metros">992</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">470</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.446394</long>
+                    <lat>42.383537</lat>
+                    <altitud unidad="metros">992</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">261</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.448622</long>
+                    <lat>42.388392</lat>
+                    <altitud unidad="metros">977</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">570</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.455292</long>
+                    <lat>42.394818</lat>
+                    <altitud unidad="metros">966</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">900</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.463313</long>
+                    <lat>42.395563</lat>
+                    <altitud unidad="metros">960</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">664</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.472704</long>
+                    <lat>42.399388</lat>
+                    <altitud unidad="metros">948</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">881</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.486609</long>
+                    <lat>42.396522</lat>
+                    <altitud unidad="metros">938</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">1185</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.488162</long>
+                    <lat>42.397532</lat>
+                    <altitud unidad="metros">947</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">170</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.506885</long>
+                    <lat>42.395977</lat>
+                    <altitud unidad="metros">932</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">1547</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.517070</long>
+                    <lat>42.398821</lat>
+                    <altitud unidad="metros">919</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">894</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.532066</long>
+                    <lat>42.399464</lat>
+                    <altitud unidad="metros">913</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">1233</distanciaAnterior>
+                </hito>
+            <hito>
+                <nombre>Olmos de Atapuerca</nombre>
+                <descripcion>Pequeña localidad situada al norte de la Sierra de Atapuerca, con iglesia parroquial del siglo XVI. Punto final de la ruta turística que recorre los principales hitos arqueológicos y jacobeos de la comarca.</descripcion>
+                <coordenadas>
+                    <long>-3.532384</long>
+                    <lat>42.391112</lat>
+                    <altitud unidad="metros">946</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">929</distanciaAnterior>
+            <galeriaFotos>
+                    <imagen urlf="../multimedia/olmos_atapuerca.jpg" alt="Olmos de Atapuerca con la sierra al fondo"/>
+                </galeriaFotos>
+            </hito>
+        </hitos>
+        <planimetria>xml/planimetria_ruta2.kml</planimetria>
+
+        <altimetria>xml/altimetria_ruta2.svg</altimetria>
+
+    </ruta>
+
+    <ruta>
+        <nombre>Valle del Arlanza: monasterio y ermitas medievales</nombre>
+        <tipo>Mixta naturaleza y patrimonio medieval</tipo>
+        <medioTransporte>A pie</medioTransporte>
+        <fechaInicio>2026-10-18</fechaInicio>
+        <horaInicio>08:00:00</horaInicio>
+        <duracion>1 día</duracion>
+        <agencia>Sin agencia</agencia>
+        <descripcion>Ruta a pie por el valle del río Arlanza que recorre algunos de los hitos medievales más relevantes de la provincia de Burgos. Une el pueblo de Hortigüela, las ruinas del Monasterio de San Pedro de Arlanza (cuna del condado de Castilla), la ermita románica de San Pelayo, la singular ermita noruega de San Olav y la villa medieval de Covarrubias.</descripcion>
+        <personasAdecuadas>Apta para todos los públicos con buena forma física básica</personasAdecuadas>
+        <lugarInicio>Pueblo de Hortigüela</lugarInicio>
+        <direccionInicio>Hortigüela, Burgos</direccionInicio>
+        <coordenadasInicio>
+            <long>-3.426503</long>
+            <lat>42.068343</lat>
+            <altitud unidad="metros">941</altitud>
+        </coordenadasInicio>
+        <bibliografia>
+            <referencia alt="Monasterio de San Pedro de Arlanza">https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Arlanza</referencia>
+            <referencia alt="Covarrubias en Wikipedia">https://es.wikipedia.org/wiki/Covarrubias_(Burgos)</referencia>
+            <referencia alt="Ermita de San Olav">https://es.wikipedia.org/wiki/Ermita_de_San_Olav</referencia>
+            <referencia alt="Turismo del Arlanza">https://www.turismoarlanza.com/</referencia>
+        </bibliografia>
+        <recomendacion>10</recomendacion>
+        <hitos>
+            <hito>
+                <nombre>Hortigüela</nombre>
+                <descripcion>Pequeña localidad burgalesa situada en el valle del río Arlanza, punto de partida tradicional para visitar el Monasterio de San Pedro de Arlanza y los parajes naturales del entorno.</descripcion>
+                <coordenadas>
+                    <long>-3.426503</long>
+                    <lat>42.068343</lat>
+                    <altitud unidad="metros">941</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">0</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/hortiguela.jpg" alt="Vista del pueblo de Hortigüela en el valle del Arlanza" />
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.424017</long>
+                    <lat>42.068095</lat>
+                    <altitud unidad="metros">931</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">207</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.429149</long>
+                    <lat>42.060308</lat>
+                    <altitud unidad="metros">923</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">964</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.429635</long>
+                    <lat>42.057492</lat>
+                    <altitud unidad="metros">927</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">316</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.432448</long>
+                    <lat>42.055611</lat>
+                    <altitud unidad="metros">936</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">313</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.431944</long>
+                    <lat>42.054546</lat>
+                    <altitud unidad="metros">936</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">125</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.442755</long>
+                    <lat>42.049114</lat>
+                    <altitud unidad="metros">928</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">1078</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.444055</long>
+                    <lat>42.046318</lat>
+                    <altitud unidad="metros">923</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">329</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.446462</long>
+                    <lat>42.045971</lat>
+                    <altitud unidad="metros">939</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">202</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.455284</long>
+                    <lat>42.047918</lat>
+                    <altitud unidad="metros">936</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">760</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.460137</long>
+                    <lat>42.047270</lat>
+                    <altitud unidad="metros">921</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">407</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Monasterio de San Pedro de Arlanza</nombre>
+                <descripcion>Conjunto monástico medieval considerado la cuna del condado de Castilla, fundado en el siglo IX. Lugar donde residió el conde Fernán González y donde estuvo enterrado. Sus ruinas, en un entorno natural espectacular junto al río Arlanza, están declaradas Bien de Interés Cultural.</descripcion>
+                <coordenadas>
+                    <long>-3.467101</long>
+                    <lat>42.048629</lat>
+                    <altitud unidad="metros">934</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">595</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/arlanza_1.jpg" alt="Ruinas del Monasterio de San Pedro de Arlanza" />
+                    <imagen urlf="../multimedia/arlanza_2.jpg" alt="Detalle del claustro románico" />
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video urlv="../multimedia/arlanza.mp4" alt="Recorrido por las ruinas del monasterio" />
+                </galeriaVideos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.468062</long>
+                    <lat>42.047881</lat>
+                    <altitud unidad="metros">956</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">115</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.469618</long>
+                    <lat>42.048145</lat>
+                    <altitud unidad="metros">942</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">132</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.470167</long>
+                    <lat>42.047949</lat>
+                    <altitud unidad="metros">932</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">50</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.469939</long>
+                    <lat>42.046661</lat>
+                    <altitud unidad="metros">942</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">144</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Ermita de San Pelayo</nombre>
+                <descripcion>Pequeña ermita rural románica del siglo XI a orillas del río Arlanza, dedicada al niño mártir San Pelayo. Uno de los ejemplos más antiguos de arquitectura románica rural conservada en la zona.</descripcion>
+                <coordenadas>
+                    <long>-3.467949</long>
+                    <lat>42.046232</lat>
+                    <altitud unidad="metros">968</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">171</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/san_pelayo.jpg" alt="Ermita románica de San Pelayo junto al río Arlanza" />
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.469861</long>
+                    <lat>42.045811</lat>
+                    <altitud unidad="metros">924</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">165</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.469582</long>
+                    <lat>42.043738</lat>
+                    <altitud unidad="metros">914</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">232</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.472397</long>
+                    <lat>42.042027</lat>
+                    <altitud unidad="metros">910</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">300</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.473538</long>
+                    <lat>42.042376</lat>
+                    <altitud unidad="metros">937</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">102</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.474515</long>
+                    <lat>42.043780</lat>
+                    <altitud unidad="metros">930</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">176</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.476438</long>
+                    <lat>42.042846</lat>
+                    <altitud unidad="metros">906</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">190</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.478416</long>
+                    <lat>42.038145</lat>
+                    <altitud unidad="metros">903</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">548</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.480325</long>
+                    <lat>42.038249</lat>
+                    <altitud unidad="metros">926</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">158</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.481018</long>
+                    <lat>42.036789</lat>
+                    <altitud unidad="metros">921</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">172</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.482731</long>
+                    <lat>42.036887</lat>
+                    <altitud unidad="metros">914</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">142</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.484028</long>
+                    <lat>42.038033</lat>
+                    <altitud unidad="metros">911</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">166</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.489928</long>
+                    <lat>42.041177</lat>
+                    <altitud unidad="metros">926</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">600</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.491402</long>
+                    <lat>42.041287</lat>
+                    <altitud unidad="metros">908</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">122</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.491758</long>
+                    <lat>42.041988</lat>
+                    <altitud unidad="metros">924</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">83</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.492018</long>
+                    <lat>42.042157</lat>
+                    <altitud unidad="metros">924</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">28</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.493387</long>
+                    <lat>42.041565</lat>
+                    <altitud unidad="metros">916</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">131</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.494899</long>
+                    <lat>42.042025</lat>
+                    <altitud unidad="metros">923</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">135</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.493959</long>
+                    <lat>42.043465</lat>
+                    <altitud unidad="metros">923</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">178</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.493681</long>
+                    <lat>42.044647</lat>
+                    <altitud unidad="metros">915</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">133</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.491736</long>
+                    <lat>42.047238</lat>
+                    <altitud unidad="metros">891</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">330</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.491979</long>
+                    <lat>42.049777</lat>
+                    <altitud unidad="metros">902</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">283</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.494826</long>
+                    <lat>42.051598</lat>
+                    <altitud unidad="metros">910</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">310</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.506798</long>
+                    <lat>42.053804</lat>
+                    <altitud unidad="metros">898</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">1018</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.505823</long>
+                    <lat>42.055593</lat>
+                    <altitud unidad="metros">915</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">215</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.500994</long>
+                    <lat>42.057966</lat>
+                    <altitud unidad="metros">931</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">478</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.499070</long>
+                    <lat>42.058244</lat>
+                    <altitud unidad="metros">922</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">162</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Ermita de San Olav</nombre>
+                <descripcion>Única ermita dedicada a un santo noruego en España. Inaugurada en 2011 por la familia real noruega, conmemora a la princesa Cristina de Noruega, casada con el infante Felipe de Castilla en 1258 y enterrada en la Colegiata de Covarrubias.</descripcion>
+                <coordenadas>
+                    <long>-3.498220</long>
+                    <lat>42.059676</lat>
+                    <altitud unidad="metros">928</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">174</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/san_olav.jpg" alt="Ermita de San Olav con vistas al valle" />
+                </galeriaFotos>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.499770</long>
+                    <lat>42.058355</lat>
+                    <altitud unidad="metros">947</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">195</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.501794</long>
+                    <lat>42.057789</lat>
+                    <altitud unidad="metros">952</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">179</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.503338</long>
+                    <lat>42.057017</lat>
+                    <altitud unidad="metros">957</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">154</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.504162</long>
+                    <lat>42.056584</lat>
+                    <altitud unidad="metros">920</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">83</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.506051</long>
+                    <lat>42.055745</lat>
+                    <altitud unidad="metros">932</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">182</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.506988</long>
+                    <lat>42.053851</lat>
+                    <altitud unidad="metros">898</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">224</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.508313</long>
+                    <lat>42.054040</lat>
+                    <altitud unidad="metros">889</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">111</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.511342</long>
+                    <lat>42.056086</lat>
+                    <altitud unidad="metros">898</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">338</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.513277</long>
+                    <lat>42.058160</lat>
+                    <altitud unidad="metros">895</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">280</distanciaAnterior>
+            </hito>
+            <hito>
+                <coordenadas>
+                    <long>-3.514261</long>
+                    <lat>42.059264</lat>
+                    <altitud unidad="metros">899</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">147</distanciaAnterior>
+            </hito>
+            <hito>
+                <nombre>Covarrubias</nombre>
+                <descripcion>Villa medieval declarada Conjunto Histórico-Artístico Nacional, cuna del condado de Castilla y residencia de la infanta Cristina de Noruega. Conserva calles porticadas, casas de entramado de madera y la Colegiata de San Cosme y San Damián.</descripcion>
+                <coordenadas>
+                    <long>-3.519185</long>
+                    <lat>42.060109</lat>
+                    <altitud unidad="metros">903</altitud>
+                </coordenadas>
+                <distanciaAnterior unidad="metros">417</distanciaAnterior>
+                <galeriaFotos>
+                    <imagen urlf="../multimedia/covarrubias_1.jpg" alt="Calle porticada de Covarrubias" />
+                    <imagen urlf="../multimedia/covarrubias_2.jpg" alt="Colegiata de San Cosme y San Damián" />
+                    <imagen urlf="../multimedia/covarrubias_3.jpg" alt="Torreón de Fernán González" />
+                </galeriaFotos>
+                <galeriaVideos>
+                    <video urlv="../multimedia/covarrubias.mp4" alt="Recorrido por Covarrubias" />
+                </galeriaVideos>
+            </hito>
+        </hitos>
+        <planimetria>xml/planimetria_ruta3.kml</planimetria>
+
+        <altimetria>xml/altimetria_ruta3.svg</altimetria>
+
+    </ruta>
+
+</rutas>

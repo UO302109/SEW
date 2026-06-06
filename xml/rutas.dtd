@@ -1,0 +1,77 @@
+<!ELEMENT rutas (ruta+)>
+<!ATTLIST rutas
+    xmlns CDATA #IMPLIED
+    xmlns:xsi CDATA #IMPLIED
+    xsi:schemaLocation CDATA #IMPLIED>
+
+<!ELEMENT ruta (
+    nombre,
+    tipo,
+    medioTransporte,
+    fechaInicio?,
+    horaInicio?,
+    duracion,
+    agencia,
+    descripcion,
+    personasAdecuadas,
+    lugarInicio,
+    direccionInicio,
+    coordenadasInicio,
+    bibliografia,
+    recomendacion,
+    hitos,
+    planimetria,
+    altimetria
+)>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT medioTransporte (#PCDATA)>
+<!ELEMENT fechaInicio (#PCDATA)>
+<!ELEMENT horaInicio (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT agencia (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT personasAdecuadas (#PCDATA)>
+<!ELEMENT lugarInicio (#PCDATA)>
+<!ELEMENT direccionInicio (#PCDATA)>
+<!ELEMENT recomendacion (#PCDATA)>
+
+<!ELEMENT coordenadasInicio (long, lat, altitud)>
+<!ELEMENT long (#PCDATA)>
+<!ELEMENT lat (#PCDATA)>
+<!ELEMENT altitud (#PCDATA)>
+<!ATTLIST altitud unidad CDATA #REQUIRED>
+
+<!ELEMENT bibliografia (referencia, referencia, referencia+)>
+<!ELEMENT referencia (#PCDATA)>
+<!ATTLIST referencia alt CDATA #IMPLIED>
+
+<!ELEMENT hitos (hito+)>
+<!ELEMENT hito (
+    nombre?,
+    descripcion?,
+    coordenadas,
+    distanciaAnterior,
+    galeriaFotos?,
+    galeriaVideos?
+)>
+
+<!ELEMENT coordenadas (long, lat, altitud)>
+
+<!ELEMENT distanciaAnterior (#PCDATA)>
+<!ATTLIST distanciaAnterior unidad CDATA #REQUIRED>
+
+<!ELEMENT galeriaFotos (imagen+)>
+<!ELEMENT imagen EMPTY>
+<!ATTLIST imagen
+    urlf CDATA #REQUIRED
+    alt CDATA #IMPLIED>
+
+<!ELEMENT galeriaVideos (video+)>
+<!ELEMENT video EMPTY>
+<!ATTLIST video
+    urlv CDATA #REQUIRED
+    alt CDATA #IMPLIED>
+<!ELEMENT planimetria (#PCDATA)>
+<!ELEMENT altimetria (#PCDATA)>
