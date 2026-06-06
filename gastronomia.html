@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Burgos - Gastronomía</title>
+    <meta name="author" content="Fernando Remis Figueroa" />
+    <meta name="description" content="Gastronomía típica de la provincia de Burgos: morcilla, lechazo, queso fresco y vinos de la Ribera del Duero." />
+    <meta name="keywords" content="Burgos, gastronomía, morcilla, lechazo, queso, Ribera del Duero, sopa castellana" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+    <link rel="icon" href="multimedia/favicon.ico" />
+</head>
+
+<body>
+    <header>
+        <h1><a href="index.html">Burgos - Recursos turísticos</a></h1>
+        <nav>
+            <a href="index.html" title="Inicio de la página">Inicio</a>
+            <a href="gastronomia.html" class="activo" title="Gastronomía típica de Burgos">Gastronomía</a>
+            <a href="rutas.html" title="Rutas turísticas por la provincia">Rutas</a>
+            <a href="meteorologia.html" title="Información meteorológica">Meteorología</a>
+            <a href="juego.html" title="Juego sobre Burgos">Juego</a>
+            <a href="reservas.php" title="Reserva de recursos turísticos">Reservas</a>
+            <a href="ayuda.html" title="Ayuda de la página">Ayuda</a>
+        </nav>
+    </header>
+    <p>Estás en: <a href="index.html">Inicio</a>>><strong>Gastronomía</strong></p>
+    <main>
+        <article>
+            <h2>Gastronomía típica de Burgos</h2>
+            <p>
+                La gastronomía burgalesa es una de las más reconocidas de Castilla y León, con productos
+                como la morcilla de Burgos, el lechazo asado, el queso fresco de Burgos y los vinos de la
+                Ribera del Duero. La provincia ofrece una cocina tradicional, sustanciosa y profundamente
+                ligada al territorio.
+            </p>
+            <picture>
+                <source media="(max-width: 465px)" srcset="multimedia/MorcillaMovil.jpg" />
+                <source media="(max-width: 799px)" srcset="multimedia/MorcillaTablet.jpg" />
+                <source media="(min-width: 800px)" srcset="multimedia/MorcillaPc.jpg" />
+                <img src="multimedia/MorcillaPc.jpg" alt="Plato de morcilla de Burgos cortada en rodajas sobre rebanadas de pan" />
+            </picture>
+
+            <h3>Productos imprescindibles</h3>
+            <ol>
+                <li>Morcilla de Burgos con pimientos asados</li>
+                <li>Lechazo asado al horno de leña</li>
+                <li>Sopa castellana con pan, ajo y huevo</li>
+                <li>Olla podrida con alubias rojas de Ibeas</li>
+            </ol>
+
+            <h3>Productos con reconocimiento</h3>
+            <ul>
+                <li>Morcilla de Burgos</li>
+                <li>Queso fresco de Burgos</li>
+                <li>
+                    Vinos de la Ribera del Duero
+                    <ul>
+                        <li>Tintos jóvenes</li>
+                        <li>Crianzas</li>
+                        <li>Reservas y Grandes Reservas</li>
+                    </ul>
+                </li>
+                <li>Alubias rojas de Ibeas</li>
+            </ul>
+
+            <section>
+                <h3>Multimedia</h3>
+                <video controls preload="auto">
+                    <source src="multimedia/morcilla.mp4" type="video/mp4" />
+                    <source src="multimedia/morcilla.webm" type="video/webm" />
+                    <p>Tu navegador no soporta vídeo HTML5. Puedes <a href="multimedia/morcilla.mp4">descargar el vídeo en MP4</a>.</p>
+                </video>
+            </section>
+
+            <section>
+                <h3>Productos y zonas de producción</h3>
+                <table>
+                    <caption>Productos típicos de Burgos y su zona principal de producción</caption>
+                    <tr>
+                        <th scope="col" id="h-producto">Producto</th>
+                        <th scope="col" id="h-zona">Zona de producción</th>
+                    </tr>
+                    <tr>
+                        <th scope="row" id="prod-morcilla">Morcilla de Burgos</th>
+                        <td headers="h-zona prod-morcilla">Toda la provincia, especialmente capital y alfoz</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" id="prod-queso">Queso fresco de Burgos</th>
+                        <td headers="h-zona prod-queso">Capital y comarca</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" id="prod-vino">Vino Ribera del Duero</th>
+                        <td headers="h-zona prod-vino">Sur de la provincia, ribera del río Duero</td>
+                    </tr>
+                    <tr>
+                        <th scope="row" id="prod-alubia">Alubia roja de Ibeas</th>
+                        <td headers="h-zona prod-alubia">Ibeas de Juarros y comarca</td>
+                    </tr>
+                </table>
+            </section>
+        </article>
+    </main>
+
+    <aside>
+        <section>
+            <h3>Audio sobre la gastronomía burgalesa</h3>
+            <audio controls>
+                <source src="multimedia/gastronomia.mp3" type="audio/mpeg" />
+                <source src="multimedia/gastronomia.wav" type="audio/wav" />
+                <p>Tu navegador no soporta audio HTML5. Puedes <a href="multimedia/gastronomia.mp3">descargar el audio en MP3</a>.</p>
+            </audio>
+        </section>
+
+        <h3>Glosario gastronómico</h3>
+        <dl>
+            <dt>Morcilla de Burgos</dt>
+            <dd>Embutido elaborado con sangre de cerdo, arroz, cebolla y especias, característico de la provincia.</dd>
+
+            <dt>Lechazo</dt>
+            <dd>Cordero lechal de menos de 35 días, alimentado solo con leche materna, asado al horno de leña.</dd>
+
+            <dt>Sopa castellana</dt>
+            <dd>Sopa elaborada con pan duro, ajo, pimentón, huevo y caldo, típica del invierno castellano.</dd>
+
+            <dt>Olla podrida</dt>
+            <dd>Guiso contundente con alubias rojas, chorizo, morcilla, costilla y verduras.</dd>
+
+            <dt>Lechazo IGP</dt>
+            <dd>Indicación Geográfica Protegida que certifica el origen y la calidad del cordero lechal de Castilla y León.</dd>
+        </dl>
+    </aside>
+</body>
+</html>
